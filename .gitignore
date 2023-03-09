@@ -1,0 +1,26 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Local development settings
+*.log
+*.sqlite3
+
+# Static files
+staticfiles/
+assets/
+
+# Media files
+media/
+
+# Django migration files
+**/migrations/*
+
+# Environment-specific files
+/env
+
+# Other project-specific files
+*.bak
+*.swp
+.DS_Store
